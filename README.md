@@ -5,18 +5,14 @@
 ---
 #🖼️ PREVIEW
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05fb4ba2-674c-477a-8c9d-67d3c1572e28" width="600"/>
-  <br/>
-  <img src="https://github.com/user-attachments/assets/7e8cebcb-0c1c-45d7-bab2-aa123470c25b" width="600"/>
-  <br/>
-  <img src="https://github.com/user-attachments/assets/30670a2c-4c56-44c5-848e-4b1d860e5287" width="600"/>
-  <br/>
-  <img src="https://github.com/user-attachments/assets/fad07cfe-f38b-481b-a3dc-2ec3c7c91b7c" width="600"/>
+  <img src="https://github.com/user-attachments/assets/59bb91fc-9738-43bd-ab7c-324b1d7330ff" width="600"/>
 </p>
+
 #📝Assignment 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d763c37-7843-446a-9ad3-fdd2a289ac24" width="600"/> <br/>
+  <img src="https://github.com/user-attachments/assets/71484000-87c5-4bac-baca-e25b03265498" width="600"/> <br/>
+   <img src="https://github.com/user-attachments/assets/30efd4ad-93e3-407a-ac44-f93dab2f9ee7" width="600"/> <br/>
   <small>แหล่งที่มา:  
-  <a href="https://www.youtube.com/watch?v=T8F5F9Jt8Yk&list=PLvUOx2WG6R7PMM8UhMWevH75QzGyXOv4g" target="_blank" rel="noopener noreferrer">Gurutech Networking Training - YouTube Playlist</a>
+  <a href="https://www.youtube.com/watch?v=z4uTWsXbZaM&list=PLyEymK89ZUabd7h9FK4dGVdONbxFEJoyk&index=3" target="_blank" rel="noopener noreferrer">Gurutech Networking Training - YouTube Playlist</a>
   </small>
-</p>
+</p>   
